@@ -1,0 +1,35 @@
+
+#container {
+    
+    max-width: 400px;
+    margin: 10px;
+    padding: 5px;
+    background-color:rgba(127, 255, 212,0.3);
+    
+}
+
+h1 {
+    font-family: 'Indie Flower', cursive;
+    color: maroon;
+}
+input {
+    font-family: 'Indie Flower', cursive;
+}
+button {
+    color: maroon;
+    background-color: bisque;
+    border-radius: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    font-family: 'Indie Flower', cursive;
+    width: 300px;
+    margin: 20px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.completed {
+    text-decoration: line-through;
+  }
+  
